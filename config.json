@@ -1,0 +1,23 @@
+{
+    "siteTitle": "Vbuntu",
+    "outputDir": "_site",
+    "copy": {
+        "/about": "/"
+    },
+    "feed": {
+        "type": "rss",
+        "title": "Vbuntu. Let's build vibrant Engineering community!",
+        "description": "Vbuntu is a community for Engineers and creative people",
+        "id": "https://vbuntu.org",
+        "link": "https://vbuntu.org/posts",
+        "image": "https://vbuntu.org/img/VbuntuTransparentLogo.png",
+        "copyright": "Copyright: Vbuntu.org",
+        "language": "en",
+        "generator": "Elmstatic",
+        "author": {
+          "name": "Santhosh",
+          "link": "https://vbuntu.org/about"
+        }
+    },
+    "tags": ["other", "software", "engineering", "creative", "community"]
+}
