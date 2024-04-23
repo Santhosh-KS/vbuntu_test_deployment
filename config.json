@@ -15,9 +15,17 @@
         "language": "en",
         "generator": "Elmstatic",
         "author": {
-          "name": "Santhosh",
-          "link": "https://vbuntu.org/about"
+            "name": "Santhosh",
+            "link": "https://vbuntu.org/about"
         }
     },
-    "tags": ["other", "software", "engineering", "creative", "community"]
+    "tags": [
+        "announcements",
+        "organization",
+        "other",
+        "software",
+        "engineering",
+        "creative",
+        "community"
+    ]
 }
