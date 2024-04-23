@@ -5,4 +5,4 @@ tags: Announcements Organization
 
 # Vbuntu is Live!
 
-It gives me immeanse pleasure to announce that, [www.vbuntu.org](www.vbuntu.org) is officially born on this date! Let us bring the "bunt" in this community out!
+It gives me immeanse pleasure to announce that, [vbuntu.org](https://vbuntu.org) is officially born on 22-Apr-2024! Let us bring the "bunt" in this community out!
