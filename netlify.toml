@@ -1,0 +1,10 @@
+# 1️⃣ Tells Netlify how to build your app, and where the files are
+[build]
+  command = "npm i -g elm@latest-0.19.1 && npm i -g elmstatic && elmstatic build -v"
+  publish = "_site"
+
+# 2️⃣ Handles SPA redirects so all your pages work
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
