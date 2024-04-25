@@ -69,7 +69,7 @@ header =
                 ]
             , li []
                 [ a [ href "/signup" ]
-                    [ text "Sign Up" ]
+                    [ text "Sign-Up" ]
                 ]
             , li []
                 [ a [ href "/contact" ]
