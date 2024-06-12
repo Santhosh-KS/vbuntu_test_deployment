@@ -27,7 +27,7 @@ In addition to being a hub for learning and collaboration, Vbuntu is committed t
 
 **Time Management**: Discover strategies to optimize your workflow and make the most out of your day. From effective task prioritization to leveraging productivity tools, we've got you covered.   
 
-**Productivity Challenges**: Participate in productivity challenges designed to cultivate healthy habits and boost efficiency. We help in building systems that are simple, yet powerful enough to be used in any domain; which will help you achive your goals in any domain.
+**Productivity Challenges**: Participate in productivity challenges designed to cultivate healthy habits and boost efficiency. We help in building systems that are simple, yet powerful enough to be used in any domain; which will help you achive your goals.
 
 
 ## Embracing the Ubuntu Philosophy
